@@ -551,7 +551,7 @@ export default function App() {
               <motion.a 
                 whileHover={{ scale: 1.05, backgroundColor: "rgba(0,173,181,0.1)" }}
                 whileTap={{ scale: 0.95 }}
-                href="https://drive.google.com/file/d/1EJ-oxDFcWfevubDUTjldMsypab_GFk23/view?usp=drivesdk" 
+                href="/Jamel CV Flutter.pdf" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 px-10 py-5 rounded-2xl bg-white/5 border border-white/10 text-white font-black text-lg backdrop-blur-md transition-all hover:border-[#00ADB5]/50 group light:bg-slate-100 light:border-slate-200 light:text-slate-700"
